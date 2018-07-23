@@ -12,7 +12,7 @@
 
 # 6_4
 [Code](./6_4)
-This is a complicate mission, so I'll skip it and complete later.   
+This is a painter mission which I finished by pixel based on MFC in my Computer Graphic Course. So I'll skip it.   
 #
 
 # 6_5
