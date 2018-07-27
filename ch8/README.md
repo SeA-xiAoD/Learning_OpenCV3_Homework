@@ -15,7 +15,6 @@
 #
 
 # 8_5
-[Code](./8_5)  
 Painter again, skip!
 #
 

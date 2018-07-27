@@ -11,7 +11,6 @@
 #
 
 # 6_4
-[Code](./6_4)
 This is a painter mission which I finished by pixel based on MFC in my Computer Graphic Course. So I'll skip it.   
 #
 
