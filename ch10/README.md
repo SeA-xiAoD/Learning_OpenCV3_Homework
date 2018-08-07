@@ -23,7 +23,7 @@ The second function is used to smooth the edge of bright area, so the main effec
 #
 
 # 10_6
-HDR algorithm. [Reference](https://docs.opencv.org/3.0-beta/doc/tutorials/photo/hdr_imaging/hdr_imaging.html)
+[HDR algorithm](https://docs.opencv.org/3.0-beta/doc/tutorials/photo/hdr_imaging/hdr_imaging.html).
 #
 
 # 10_7
@@ -68,4 +68,15 @@ The size of two images are different, but the pixels are not obviously different
 Through the result of exercise c, we can konw that separable kernel and the order of the seperable kernel are not influence the filtering result.
 #
 
+# 10_17
+[Code](./10_17)
+#
 
+# 10_18
+[Code](./10_18)
+#
+
+# 10_19
+[Code](./10_19)  
+The results are changed. Because the kernel size is increasing, the bigger size influence more pixel so that the mag and angle of bigger kernel size have thicker line.
+#
