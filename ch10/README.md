@@ -31,11 +31,12 @@ This exercise makes me confused. Based on my knowledge, if I need to know what p
 #
 
 # 10_8
-I'll finish this exercise after chapter 12 (flood-fill).
+[Code](./10_8)  
+Although I complete this Ex, I'm obscure of flood-fill and I think my implementation of this Ex was wrong. Anothor respective, the mop_open maybe is a good mask for Ex9.
 #
 
 # 10_9
-After Ex_10_8.
+[Code](./10_9)  
 #
 
 # 10_10
